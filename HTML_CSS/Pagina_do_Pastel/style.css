@@ -1,0 +1,48 @@
+body {
+    background: #e79daf;
+}
+
+.tituloPrincipal {
+    padding-left: 20px;
+}
+
+#banner {
+    /*width: 100%*/
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.tituloCentralizado {
+    text-align: center;
+}
+
+.itens {
+    font-style: italic;
+}
+
+p {
+    text-align: center;
+}
+
+#missao {
+    font-size: 20px;
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-left: 5%;
+}
+
+.imagemPasteisGostosos {
+    width: 25%;
+    margin-left: 20%;
+}
+
+em strong {
+    color: #bb00cc;
+}
+
+.contato {
+    background: #cc5774;
+    padding: 20px;
+}
