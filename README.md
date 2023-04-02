@@ -17,11 +17,21 @@ Os códigos de Lógica estão divididos por curso.
 
 ###  `JavaScript e HTML: desenvolva um jogo e pratique lógica de programação`
 
-* [`ft_isascii`](Libft_Raquel/ft_isascii.c)			- test for ASCII character.
+* [`adivinha_mais.html`](Logica/adivinha_mais.html)			- Sorteio de números aleatórios para adivinhar.
+* [`ano_copa.html`](Logica/ano_copa.html)			- Alertas que mostram os anos das Copas do Mundo desde 1930.
+* [`estrelas.html`](Logica/estrelas.html)			- Retângulo feito com '*'.
+* [`futebol.html`](Logica/futebol.htmll)			- Comparação de pontos entre times.
+* [`imc.html`](Logica/imc.html)			- Cálculo de IMC com alertas de resultado.
+* [`jogo_adivinha.html`](Logica/jogo_adivinha.html)			- Sorteio simples de números aleatórios para adivinhar.
+* [`jogo_adivinha2.html`](Logica/jogo_adivinha2.html)			- Sorteio simples de números aleatórios para adivinhar, que mostra o resultado.
+* [`media_idades_familiares.html`](Logica/media_idades_familiares.html)			- Cálculo da média de idades de familiares.
+* [`primeiro_teste.html`](Logica/primeiro_teste.html)			- Teste usando <script>.
+* [`programa.html`](Logica/programa.html)			- Programa que calcula a média de idades.
+* [`tabuada.html`](Logica/tabuada.html)			- Cálculo da tabuada do 7.
 
 ### `JavaScript e HTML: pratique lógica com desenhos, animações e um jogo`
 
-* [`ft_calloc`](Libft_Raquel/ft_calloc.c)	- memory allocation.
+* [`adivinha_mais.html`](Logica/adivinha_mais.html)	- memory allocation.
 
 ### `HTML5 e CSS3`
 >Summary:
