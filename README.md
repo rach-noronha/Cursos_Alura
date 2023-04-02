@@ -31,13 +31,23 @@ Os códigos de Lógica estão divididos por curso.
 
 ### `JavaScript e HTML: pratique lógica com desenhos, animações e um jogo`
 
-* [`adivinha_mais.html`](Logica/adivinha_mais.html)	- memory allocation.
+* [`alvo.html`](Logica/alvo.html)	- Jogo em que o centro do alvo deve ser clicado, gerando um alerta.
+* [`bandeira.html`](Logica_II/bandeira.html)	- Bandeira do Brasil em JavaScript.
+* [`creeper.html`](Logica_II/creeper.html)	- Creeper do Minecraft do Brasil em JavaScript.
+* [`desenho.html`](Logica_II/desenho.html)	- Pincel de desenho com paleta de cores em JavaScript.
+* [`esquadro.html`](Logica_II/esquadro.html)	- Esquadro em JavaScript.
+* [`flor_circulo.html`](Logica_II/flor_circulo.html)	- Flor em JavaScript.
+* [`fracoes.html`](Logica_II/fracoes.html)	- Representação gráfica de uma fração em JavaScript.
+* [`infinitas_cores.html`](Logica_II/infinitas_cores.html)	- Pincel de desenho com seleção de cores em JavaScript.
+* [`programa.html`](Logica_II/programa.html)	- Diferentes formatos gráficos em JavaScript.
+* [`programa.html`](Logica_II/programa2.html)	- Quadrados impressos utilizando 'for' em JavaScript.
+* [`programa.html`](Logica_II/programa3.html)	- Círculos com opções de cores e tamanhos em JavaScript.
 
 ### `HTML5 e CSS3`
 >Summary:
 A página se refere aos cursos -> Parte 1: crie uma página da Web; Parte 2: posicionamento, listas e navegação; Parte 3: trabalhando com formulários e tabelas; Parte 4: avançando no CSS.
 
-* [`ft_bzero`](Libft_Raquel/ft_bzero.c)		- write zeroes to a byte string.
+* [`Pagina_do_Pastel`](HTML_CSS/Pagina_do_Pastel/)		- Um site dedicado a um dos melhores alimentos do mundo, utilizando a guia dos cursos. (Em construção 👩🏻‍💻)
 
 <!--
 ### `HTML5 e CSS3 `
