@@ -20,7 +20,7 @@ Os códigos de Lógica estão divididos por curso.
 * [`adivinha_mais.html`](Logica/adivinha_mais.html)			- Sorteio de números aleatórios para adivinhar.
 * [`ano_copa.html`](Logica/ano_copa.html)			- Alertas que mostram os anos das Copas do Mundo desde 1930.
 * [`estrelas.html`](Logica/estrelas.html)			- Retângulo feito com '*'.
-* [`futebol.html`](Logica/futebol.htmll)			- Comparação de pontos entre times.
+* [`futebol.html`](Logica/futebol.html)			- Comparação de pontos entre times.
 * [`imc.html`](Logica/imc.html)			- Cálculo de IMC com alertas de resultado.
 * [`jogo_adivinha.html`](Logica/jogo_adivinha.html)			- Sorteio simples de números aleatórios para adivinhar.
 * [`jogo_adivinha2.html`](Logica/jogo_adivinha2.html)			- Sorteio simples de números aleatórios para adivinhar, que mostra o resultado.
@@ -31,7 +31,7 @@ Os códigos de Lógica estão divididos por curso.
 
 ### `JavaScript e HTML: pratique lógica com desenhos, animações e um jogo`
 
-* [`alvo.html`](Logica/alvo.html)	- Jogo em que o centro do alvo deve ser clicado, gerando um alerta.
+* [`alvo.html`](Logica_II/alvo.html)	- Jogo em que o centro do alvo deve ser clicado, gerando um alerta.
 * [`bandeira.html`](Logica_II/bandeira.html)	- Bandeira do Brasil em JavaScript.
 * [`creeper.html`](Logica_II/creeper.html)	- Creeper do Minecraft do Brasil em JavaScript.
 * [`desenho.html`](Logica_II/desenho.html)	- Pincel de desenho com paleta de cores em JavaScript.
@@ -40,8 +40,8 @@ Os códigos de Lógica estão divididos por curso.
 * [`fracoes.html`](Logica_II/fracoes.html)	- Representação gráfica de uma fração em JavaScript.
 * [`infinitas_cores.html`](Logica_II/infinitas_cores.html)	- Pincel de desenho com seleção de cores em JavaScript.
 * [`programa.html`](Logica_II/programa.html)	- Diferentes formatos gráficos em JavaScript.
-* [`programa.html`](Logica_II/programa2.html)	- Quadrados impressos utilizando 'for' em JavaScript.
-* [`programa.html`](Logica_II/programa3.html)	- Círculos com opções de cores e tamanhos em JavaScript.
+* [`programa2.html`](Logica_II/programa2.html)	- Quadrados impressos utilizando 'for' em JavaScript.
+* [`programa3.html`](Logica_II/programa3.html)	- Círculos com opções de cores e tamanhos em JavaScript.
 
 ### `HTML5 e CSS3`
 >Summary:
