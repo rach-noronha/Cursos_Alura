@@ -7,14 +7,32 @@ body {
 }
 
 #banner {
-    /*width: 100%*/
-    display: block;
+    width: 100%
+        /*display: block;
     margin-left: auto;
-    margin-right: auto;
+    margin-right: auto;*/
 }
 
 .tituloCentralizado {
     text-align: center;
+}
+
+nav li {
+    display: inline;
+    margin: 0 0 0 10px;
+}
+
+nav a {
+    text-transform: uppercase;
+    color: rgb(133, 30, 133);
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color:rgb(177, 39, 39);
+    text-decoration: underline;
 }
 
 .itens {
@@ -45,4 +63,20 @@ em strong {
 .contato {
     background: #cc5774;
     padding: 20px;
+}
+
+footer {
+    text-align: center;
+    background-color: rgb(216, 107, 158);
+    padding: 5px 0;
+}
+
+.imgfooter {
+    width: 50px;
+    height: 50px;
+}
+
+.footertext {
+    color: rgb(117, 6, 67);
+    font-size: 13px;
 }
