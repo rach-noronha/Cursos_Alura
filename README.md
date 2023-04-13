@@ -49,18 +49,6 @@ A página se refere aos cursos -> Parte 1: crie uma página da Web; Parte 2: pos
 
 * [`Pagina_do_Pastel`](HTML_CSS/Pagina_do_Pastel/)		- Um site dedicado a um dos melhores alimentos do mundo, utilizando a guia dos cursos. (Em construção 👩🏻‍💻)
 
-<!--
-### `HTML5 e CSS3 `
+### `JavaScript: programando na linguagem da web`
 
-* [`ft_strlen`](Libft_Raquel/ft_strlen.c)				- find length of string.
-
-
-### Non-standard functions
-
-* [`ft_putchar_fd`](Libft_Raquel/ft_putchar_fd.c)		- output a character to given file.
-
-
-### Linked list functions
-
-* [`ft_lstnew`](Libft_Raquel/ft_lstnew.c)				- create new list.
--->
+* [`Aparecida_Nutricionista`](Javascript/Aparecida_Nutricionista/)	- Um site dinâmico que calcula o IMC de pacientes de uma nutricionista. (Em construção 👩🏻‍💻)
