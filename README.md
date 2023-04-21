@@ -12,8 +12,7 @@
 
 ## 💡About
 
->Summary:
-Os códigos de Lógica estão divididos por curso. 
+>Os códigos de Lógica estão divididos por curso. 
 
 ###  `JavaScript e HTML: desenvolva um jogo e pratique lógica de programação`
 
@@ -44,11 +43,10 @@ Os códigos de Lógica estão divididos por curso.
 * [`programa3.html`](Logica_II/programa3.html)	- Círculos com opções de cores e tamanhos em JavaScript.
 
 ### `HTML5 e CSS3`
->Summary:
-A página se refere aos cursos -> Parte 1: crie uma página da Web; Parte 2: posicionamento, listas e navegação; Parte 3: trabalhando com formulários e tabelas; Parte 4: avançando no CSS.
+>A página se refere aos cursos -> Parte 1: crie uma página da Web; Parte 2: posicionamento, listas e navegação; Parte 3: trabalhando com formulários e tabelas; Parte 4: avançando no CSS.
 
 * [`Pagina_do_Pastel`](HTML_CSS/Pagina_do_Pastel/)		- Um site dedicado a um dos melhores alimentos do mundo, utilizando a guia dos cursos. (Em construção 👩🏻‍💻)
 
 ### `JavaScript: programando na linguagem da web`
 
-* [`Aparecida_Nutricionista`](Javascript/Aparecida_Nutricionista/)	- Um site dinâmico que calcula o IMC de pacientes de uma nutricionista. (Em construção 👩🏻‍💻)
+* [`Aparecida_Nutricionista`](Javascript/Aparecida_Nutricionista/)	- Um site dinâmico que calcula o IMC de pacientes de uma nutricionista, inclui novos pacientes através de um `<form>` que tem validação de dados, remove cadastros com uma animação de fade, tem filtro de busca de cadastros e busca pacientes de arquivos `.json` (AJAX).
