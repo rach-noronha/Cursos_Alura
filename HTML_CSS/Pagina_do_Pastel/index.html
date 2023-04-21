@@ -3,53 +3,93 @@
 
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
     <title>Site sobre pastéis By Raquel!</title>
+
     <link rel="stylesheet" href="reset.css">
     <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
     <link rel="shortcut icon" href="./img/icone pastel.png">
 
 </head>
 
 <body>
     <header>
-        <h1 class="tituloPrincipal">Site Sobre Pastéis</h1>
+        <div class="caixa">
+            <h1><img src="./img/logo_pastelmeialua2.png" alt="Imagem de um pastél meia lua"></h1>
+            <nav>
+                <ul>
+                    <li><a href="./index.html">Home</a></li>
+                    <li><a href="./sobrepasteis.html">Pastéis</a></li>
+                    <li><a href="./contato.html">Contato</a></li>
+                </ul>
+            </nav>
+        </div>
     </header>
-    <img id="banner" src="./img/banner_pastel.png"
-        alt="Foto de pastéis fritos e os dizeres Site By Raquel que ama pastél">
-    <div>
-        <nav>
-            <ul>
-                <li class="item-menu">
-                    <a href="./index.html">Home</a>
-                </li>
-                <li class="item-menu">
-                    <a href="./sobrepasteis.html">Pastéis</a>
-                </li>
-                <li class="item-menu">
-                    <a href="./index.html#contato">Contato</a>
-                </li>
-            </ul>
-        </nav>
-    </div>
 
-    <div>
-        <h2 class="tituloCentralizado">Pastéis são muito gostosos</h2>
-        <img class="imagemPasteisGostosos" src="./img/Pastel_feiraaoo_principal.jpg"
-            alt="Foto de uma cesta de pastéis fritos">
-        <p id="missao"><em>Pastéis são <strong>ótimos</strong> e é sobre isso.</em></p>
-    </div>
+    <main>
+        <img class="banner" src="./img/banner_pastel.png"
+            alt="Foto de pastéis fritos e os dizeres Site By Raquel que ama pastél">
+        <section class="principal">
+            <h2 class="titulo-principal">Pastéis são muito gostosos!</h2>
 
-    <div>
-        <h3 class="tituloCentralizado">Contato</h3>
-        <p>Se quiser falar sobre pastéis, entre em contato através do <a href="mailto:euamopastel@pastel.com">e-mail do
-                pastel</a>.<br></p>
-    </div>
+            <img class="imgPasteisPrincipal" src="./img/pastel colorido.jpg" alt="Cesta com pastéis de várias cores">
+
+            <p>Pastéis são maravilhosos e muito dinâmicos, além de trazer uma nostalgia muito grande e é por isso que
+                resolvi fazer um site enaltecendo toda a delícia e beleza desse alimento que pode ser um snack ou
+                almoço, mas sempre será uma iguaria!</p>
+
+            <p id="missao"><em>Pastéis são <strong>ótimos</strong> e é sobre isso.</em></p>
+
+            <p>Espero que goste do site e que as fotos te animem a ir à feira e comer um pastel do seu sabor preferido!
+            </p>
+        </section>
+
+        <section class="mapa">
+            <h3 class="titulo-principal">Sugestão de Pastelaria Vegana em SP</h3>
+            <p>Um lugar com várias opções de pastéis veganos na capital de São Paulo!</p>
+
+            <div class="conteudo-mapa">
+                <iframe
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14629.100521282033!2d-46.64575435641512!3d-23.558560160824175!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce59a2719ba139%3A0xf5e29a16dfa875d0!2sPastel%20do%20Sonho%20(Um%20Sonho%20de%20Coxinha)!5e0!3m2!1sen!2sbr!4v1682020279543!5m2!1sen!2sbr"
+                    width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy"
+                    referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </div>
+        </section>
+
+        <section class="melhores">
+            <h3 class="titulo-principal">Os melhores são:</h3>
+            <div class="conteudo-melhores">
+                <ul class="lista-melhores">
+                    <li class="itens">Salgados:</li>
+                    <li class="itens">Queijo vegano com azeitona</li>
+                    <li class="itens">Carne de soja</li>
+                    <li class="itens">Brócolis e tofu</li><br>
+                    <li class="itens">Doces:</li>
+                    <li class="itens">Banana com chocolate vegano</li>
+                    <li class="itens">Banana com açúcar</li>
+                    <li class="itens">Morango com chocolate vegano</li>
+                </ul><img class="img-melhores" src="./img/Pastel_feiraaoo_principal.jpg"
+                    alt="Foto de uma cesta de pastéis fritos">
+            </div>
+
+            <div class="video">
+                <iframe width="100%" height="315" src="https://www.youtube.com/embed/QuI60Z3oaKg"
+                    title="YouTube video player" frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                    allowfullscreen></iframe>
+            </div>
+        </section>
+    </main>
 
     <footer>
-        <img class="imgfooter" src="./img/logo_pastelmeialua2.png" alt="Prato com três pastéis">
+        <img class="imgfooter" src="./img/logo_pastelmeialua2.png" alt="Imagem de um pastél meia lua">
         <p class="footertext">&copy; Feito com muito amor por massa frita e recheada! *-*</p>
     </footer>
 
 </body>
 
 </html>
+
+<!--            
+-->
