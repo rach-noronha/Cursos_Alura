@@ -50,3 +50,8 @@
 ### `JavaScript: programando na linguagem da web`
 
 * [`Aparecida_Nutricionista`](Javascript/Aparecida_Nutricionista/)	- Um site dinâmico que calcula o IMC de pacientes de uma nutricionista, inclui novos pacientes através de um `<form>` que tem validação de dados, remove cadastros com uma animação de fade, tem filtro de busca de cadastros e busca pacientes de arquivos `.json` (AJAX).
+
+### `jQuery: domine a biblioteca mais popular do mercado`
+>A página se refere aos cursos -> Parte 1 e Parte 2
+
+* [`Alura_Typer`](JQuery/alura-typer/public/)	- Um jogo bem bacana, com timer, envio e busca de dados com AJAX, GET, POST, Plugins, animações e estilo! Para executar, precisa ter o jQuery baixado e, na mesma pasta que ele, colocar o projeto!
