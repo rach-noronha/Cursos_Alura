@@ -45,7 +45,7 @@
 ### `HTML5 e CSS3`
 >A página se refere aos cursos -> Parte 1: crie uma página da Web; Parte 2: posicionamento, listas e navegação; Parte 3: trabalhando com formulários e tabelas; Parte 4: avançando no CSS.
 
-* [`Pagina_do_Pastel`](HTML_CSS/Pagina_do_Pastel/)		- Um site dedicado a um dos melhores alimentos do mundo, utilizando a guia dos cursos. (Em construção 👩🏻‍💻)
+* [`Pagina_do_Pastel`](HTML_CSS/Pagina_do_Pastel/)		- Um site dedicado a um dos melhores alimentos do mundo, utilizando a guia dos cursos. Contém `<form>` de Contatos, `<table>` de horários, lista de produtos (diferentes pastéis, hehe), `<iframe>` de mapa e vídeo do Youtube, um CSS lindão e configuração para ser adaptado para <b>Mobile</b>. Pastel, te amo! 🥟
 
 ### `JavaScript: programando na linguagem da web`
 
